@@ -1,0 +1,7 @@
+# tailwake — do not commit personal config
+tailwake.env
+
+# generic ignores
+*.log
+*.bak
+.DS_Store
